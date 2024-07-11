@@ -1,4 +1,5 @@
 dspyl
+dspy-env
 .env
 assertion.log
 data
