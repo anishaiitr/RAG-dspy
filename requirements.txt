@@ -9,3 +9,4 @@ langchain-openai
 pypdf
 dspy-ai[faiss-cpu]
 sentence-transformers
+streamlit
