@@ -1,0 +1,11 @@
+
+ipykernel
+dspy
+jupyter
+python-dotenv
+langchain
+langchain-experimental
+langchain-openai
+pypdf
+dspy-ai[faiss-cpu]
+sentence-transformers
